@@ -1,6 +1,8 @@
 # chat_project
-This is a chat application that allows users on the same LAN network to message each other in real-time.
+A chat application that allows users on the same LAN network to message each other in real-time.
 The application includes registration, signing up, and creating and joining chat groups.
+
+The application was all written in C.
 
 ## How to use?
 Open two new terminals windows and go the project directory. 
