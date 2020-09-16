@@ -1,0 +1,10 @@
+#define FALSE 0
+#define TRUE !FALSE
+#define MAGIC_NUM 0xBEEFBEEF
+#define NO_MAGIC_NUM 0xDEADBEEF
+#define MAX_LEN_FILE 50
+#define GROUPS_FILE "./groups.txt"
+#define LOGOUT_FILE "./logOutGroups.txt"
+#define MAX_CLIENTS 1000
+#define UNUSED(x) (void)(x) 
+#define SHARED_FILE "./sharedFile.text"
