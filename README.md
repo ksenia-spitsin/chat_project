@@ -1,4 +1,4 @@
-# chat_project
+# Chat Project
 A chat application that allows users on the same LAN network to message each other in real-time.
 The application includes registration, signing up, and creating and joining chat groups.
 
